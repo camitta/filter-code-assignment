@@ -1,7 +1,7 @@
 {
   "name": "distracting-words",
   "version": "1.0.0",
-  "description": "## Setup",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "testem"
